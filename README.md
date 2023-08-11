@@ -2,7 +2,7 @@
 <h3 align="center">A newbie Backend developer</h3>
 
 
- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="400">
+ <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="akashbuilds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashbuilds" alt="akashbuilds" /></a> </p>
